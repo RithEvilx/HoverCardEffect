@@ -20,7 +20,7 @@ This project demonstrates the use of advanced CSS selectors:
 
 ## Example in HTML:
 
-<div class="list" style="display:flex; gap: 0.5rem">
+<div class="list" style="display: flex; gap: 0.5rem;">
   <div class="item"><img src="img/img1.jpg" style="width: 200px"/></div>
   <div class="item"><img src="img/img2.jpg" style="width: 200px"/></div>
   ...
