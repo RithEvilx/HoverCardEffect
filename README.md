@@ -20,11 +20,13 @@ This project demonstrates the use of advanced CSS selectors:
 
 ## Example in HTML:
 
+```
 <div class="list">
-  <div class="item"><img src="img/img1.jpg" style="width: 150px; height: 200px"/></div>
-  <div class="item"><img src="img/img2.jpg" style="width: 150px; height: 200px"/></div>
+  <div class="item"><img src="img/img1.jpg" /></div>
+  <div class="item"><img src="img/img2.jpg" /></div>
   ...
 </div>
+```
 
 ## CSS Example:
 
