@@ -46,11 +46,5 @@ transform: rotateY(40deg);
   => The NEXT item gets dimmed and rotated to the right.
   => The PREVIOUS item also gets dimmed and rotated to the left.
 
-## Browser Support:
-
-- ✅ Chrome 105+
-- ✅ Safari 15.4+
-- ❌ Firefox (not supported yet)
-
 Created by RithEvil!
 Date: 07 June 2025
